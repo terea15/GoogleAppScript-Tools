@@ -1,2 +1,1 @@
-AKfycbwmBych13qy4C2P3ldDLgK1ZlL0HLQxOYyHYVlYEkYPCVpBsporjNF6oycL8wPIPBHLdw
-https://script.google.com/macros/s/AKfycbwmBych13qy4C2P3ldDLgK1ZlL0HLQxOYyHYVlYEkYPCVpBsporjNF6oycL8wPIPBHLdw/exec
+https://script.google.com/macros/s/AKfycbyPk_j0pXBN6NShL96fFtJkqwgWJerzCmOWfwpOLQDmnh0xUyyWw_lBTmP2Sn2ByDC6cQ/exec
