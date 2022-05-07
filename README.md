@@ -1,4 +1,7 @@
-# RepositoryTitle：GoogleAppScript-Tools 
+# RepositoryTitle：GoogleAppScript-Tools
+
+## 説明
+Google App Script(GAS)で作成した便利ツールやトピックを本リポジトリにて公開する
 
 ## ディレクトリ構成
 | No. | リソース名 | 説明 |
